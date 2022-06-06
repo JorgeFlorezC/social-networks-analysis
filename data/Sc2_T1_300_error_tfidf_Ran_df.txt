@@ -1,0 +1,24 @@
+	full_text	actual	predicted
+0	No encontraron otra alternativa que llenar de miedo a Colombia, utilizan sus paramilitares para ganar elecciones. Es ahora o nunca @petrogustavo	positive	negative
+2	"Y ustedes ¿Ya encontraron su #MatchPresidencial??Lo pueden hacer acá: https://t.co/0E1tZKypTK
+
+¡Nos gustaría saber quién es su candidato ideal! 
+Los leemos en los comentarios ?? https://t.co/H11SB9EsBV"	positive	negative
+9	Un abrazo fuerte @CamiloRomero en próximas elecciones espero que mi voto sea por Usted, desde el cielo  tu madre iluminará ese camino, y el de Colombia hoy.?? https://t.co/IiVUDKZpb0	positive	negative
+14	Además, los gráficos y mapas electorales demuestran la importancia electoral que tiene el centro del país, ante la densidad poblacional y la tradición de salir a votar. https://t.co/tVxPTMLkC2	positive	negative
+104	"Juntos lograremos un país de orden y oportunidades para todos????
+
+ #FicoPresidente #MeIdentiFICO #Propuestas #Agro #PlanDeGobierno #Elecciones #Politica #Salud #Libertad #Democracia #Colombia"	positive	negative
+116	"Qué buena esta herramienta de @elespectador para encontrar el candidato afín a la visión de país que uno quiere. #Recomendada ?
+Útil y pedagógica. 
+#MatchPresidencial 
+https://t.co/mIcCgFHjXy"	positive	negative
+127	@Elecciones_OJO @petrogustavo Usted habla de Uribe, yó estoy hablando del proximo PRESIDENTE de Colombia, le exijo respeto por la primera autoridad del país:  FICO PRESIDENTE https://t.co/bmMnu6Di2f	positive	negative
+131	???? La calificadora de riesgos le mantuvo a #Colombia su calificación crediticia confiando en que su estabilidad macroeconómica se mantendrá una vez elija nuevo presidente: https://t.co/Ajf3jcFhdX	positive	negative
+134	@CoronelBillKil1 El tipo más demócrata de Colombia es Petro. No solo le robaron las elecciones de hace 4 años ,sino que el estamento no se ha encargado sino de perseguirlo con sanciones y faltas investigaciones. Todo lo ha ganado Petro	positive	negative
+136	"¡Está Joya está disponible en Netflix! 
+
+*Ojalá Colombia la vea antes de las elecciones. #LaDictaduraPerfecta 
+
+La televisión ya puso un presidente... ¿Lo volverá hacer? #ColombiaDecide https://t.co/jrnNjKSeJR"	positive	negative
+146	@DianiSierraG @RHpresidente @ingrodolfohdez Se acercan las elecciones del 29 y cada vez nos convencemos más que el mejor candidato para manejar las riendas de Colombia es el Ing. RODOLFO HERNANDEZ https://t.co/GxDWZ8zITM	positive	negative

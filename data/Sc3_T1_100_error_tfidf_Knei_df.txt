@@ -1,0 +1,355 @@
+	full_text	actual	predicted
+1	@ozuismysenpai Pillá https://t.co/fnZFeKA3fz	positive	negative
+8	Alertan que miles de jurados de votación están inhabilitados para estar en las elecciones a Presidente. La idoneidad de esos delincuentes no existe, toca inhabilitarlos y anular las mesas donde estuvieron y que se evidenció el fraude. ?@PGN_COL?  https://t.co/UcAISdFd05	negative	positive
+10	"¡Viva Petro!
+Colombia | Petro anuncia que si gana restablecerá las relaciones diplomáticas y consulares con Venezuela @InfoNodal https://t.co/VjYoQsWoY1"	positive	negative
+13	@HELIODOPTERO @cataboc El propósito es que halla elecciones en una Colombia aterrorizada. No podemos caer nuevamente en la trampa, votemos bien. No podemos permitir que el innombrable siga gobernando. Nuestro país necesita un cambio urgente.	negative	positive
+16	"Eso sabe   ;)
+Adelante #PetroPresidente2022 
+https://t.co/xscQ26b62m https://t.co/NIJNT0Sms7"	positive	negative
+20	@CARLOSFMEJIA @infopresidencia @FiscaliaCol @PGN_COL @CNE_COLOMBIA Deberían hacer traslados de los REGISTRADORES  REGIONALES LOCALES . Evitar que se queden en los mismos sitios de las elecciones para congreso y consulta.	positive	negative
+23	Un abrazo fuerte @CamiloRomero en próximas elecciones espero que mi voto sea por Usted, desde el cielo  tu madre iluminará ese camino, y el de Colombia hoy.?? https://t.co/IiVUDKZpb0	positive	negative
+24	"#Marbelle tendría pensado irse de Colombia si #GustavoPetro gana las elecciones presidenciales
+
+#EsTrending  
+
+https://t.co/ICfHo1us76"	positive	negative
+25	La cuenta regresiva para las elecciones presidenciales de Colombia se encuentra en su recta final, y el candidato que cuenta de acuerdo a la encuestas con mayor intención de votos es Gustavo Petro #7May https://t.co/JVyQw3MCv7	positive	negative
+26	"Rodolfo Hernández: “Fajardo como que ya pasó a la historia”. 
+https://t.co/TNKkWRoArj
+
+#Elecciones2022 #ColombiaDecide https://t.co/15lS8za2CK"	negative	positive
+39	Elecciones en Colombia: el silencio que decidirá al ganador https://t.co/lHH5JFvDd9	positive	negative
+41	"@GUSMALDONADOS @olgamariaruiza2 Peor aun, Tribunal niega medida cautelar de suspensión del Registrador considerando q en las elecciones de 13-M no hubo fraude...
+
+Estamos llevaos del putas!!!
+
+https://t.co/4TW1rz7IU5"	negative	positive
+49	Se iniciaron los simulacros de las elecciones de presidente 2022 https://t.co/07SWb8GAT1  / @Registraduria	positive	negative
+51	@montanertwiter Te pido que ores con todo tu corazón por el bien de Colombia, para que no nos caigamos en desgracia en las próximas elecciones. Gracias ????	positive	negative
+54	Se nos robaran las elecciones en Colombia.	negative	positive
+67	Rodolfo Hernández: “Fajardo como que ya pasó a la historia” https://t.co/46LHuywOBq	positive	negative
+68	Colombia | Petro anuncia que si gana restablecerá las relaciones diplomáticas y consulares con Venezuela @InfoNodal https://t.co/voHsTypdi3	positive	negative
+73	@tinagus2000 Evidentemente la persecución judicial, la aceleración de cosas, las trabas del @cnegobec para la inscripción , el viaje de la fiscal a Colombia y el papel de otras instituciones influyeron en la victoria de Lasso. Al otro candidato lo desgastaron, mucha antes de las elecciones.	positive	negative
+76	"Y ustedes ¿Ya encontraron su #MatchPresidencial??Lo pueden hacer acá: https://t.co/0E1tZKypTK
+
+¡Nos gustaría saber quién es su candidato ideal! 
+Los leemos en los comentarios ?? https://t.co/H11SB9EsBV"	positive	negative
+84	@_21jordig @petrogustavo @FranciaMarquezM @petrogustavo y @FranciaMarquezM presidente y vicepresidente de Colombia. Elecciones 2022.	positive	negative
+89	@CARLOSFMEJIA @marwhite01 @infopresidencia @PGN_COL @FiscaliaCol @CNE_COLOMBIA Exigimos se suspenda elecciones para primera vuelta, hasta no se esclarecer como ocurrió el MEGA-FRAUDE en las elecciones a senado y cámara donde 300.000 jurados,CNE y el registrador TIBISAY VEGA  le validaron por arte de magia 1.500.000 votos al PACTO DE LA PICOTA @petrogustavo	positive	negative
+91	¡TOMA NOTA! La violencia del conflicto armado en Colombia resurge antes de las elecciones https://t.co/fPOo1FeIyz	negative	positive
+94	Sí en Colombia no van a existir garantías para unas elecciones transparentes y democráticas pues general Zapateiro...salve usted la patria. ?????? https://t.co/3ssAR28dUj	positive	negative
+95	"Señores. @PGN_COL
+
+El país reclama elecciones transparentes en primera vuelta presidencial el 29 de mayo.
+
+Opinión. @PGN_COL @CNE_COLOMBIA @moecolombia https://t.co/ceSkMa0f3W"	positive	negative
+98	@ElDelMedallo @teffygiraldo06 Y va subiendo la tasa de asesinatos en Colombia, con el nuevo terrorismo pre elecciones. ¡NO SON BUENOS DÍAS!	negative	positive
+103	Vengaaaan, yo quiero saber el match presidencial de algunos de ustedes, pues pa’ saber si sigo tragada o le echo tierra al asunto. Por ejemplo, ¿qué le habrá salido a…? Uy no, mejor no los tageo porque algunos son guilty pleasure. Pero muestreeeen https://t.co/0tyZdtw5pz	positive	negative
+104	?????? y se les llena la boca diciendo ...lleno total. Así viven, de fantasías! #fico #FueraPetro #fueraextremaizquierda  #petro #Colombia #Elecciones https://t.co/La0TI0hmqg	negative	positive
+111	A semanas de las elecciones en #Colombia ¿será que la ola progresista se extiende hacia el norte del sur? https://t.co/0r6fEbL6Ht	positive	negative
+112	"@lauraro Yo vote por el NO y hoy siento que nos podría pasar lo mismo con las próximas elecciones si no actuamos unidos!!
+Dejemos el odio irracional, aquí se trata es de salvar el presente y futuro de Colombia!
+Quien más se une??"	positive	negative
+113	O sea que el  miserable de Macías reconoce que en Colombia es Fácil robar elecciones. Bellaco.	negative	positive
+116	??ALERTA COLOMBIA??Si de verdad quieres hacer parte de la historia y participar activamente en estas elecciones. VINCÚLATE Como TESTIGO ELECTORAL Contribuye a que los COMUNISTAS En Colombia y el mundo nos no vuelvan a cometer fraude electoral.Inscríbete vigílalos y no nos dejemos	positive	negative
+125	"AMÉRICA LATINA
+Golpe al uribismo y avance de la izquierda
+a semanas de las elecciones en Colombia - 
+https://t.co/DsJ3kKO3b6"	positive	negative
+126	"En Colombia los amigos de @AlvaroUribeVel haciendo de las suyas!
+Recuerden que hace falta 23 días para las elecciones y necesitan vender el cuento de la seguridad democrática a sangre y fuego. https://t.co/Zr9BgNQys8"	negative	positive
+132	@_21jordig @petrogustavo @FranciaMarquezM @petrogustavo y @FranciaMarquezM presidente y vicepresidente de Colombia. Elecciones 2022.	positive	negative
+136	@Soylaauraaa @richiparedesh Dios que angustia. Ojalá alguien haga algo. Que impotencia. Si quieren que se queden con las elecciones, pero que dejen a Colombia en paz.	negative	positive
+137	@andreash1 @SofyCasas_ @lacoutu @Registraduria @consejodeestado @CConstitucional @CNE_COLOMBIA @FiscaliaCol ADELANTE CON LA TUTELATÓN. QUIEN SE APUNTA??' ...ALLI GANAMOS, LOS BUENOS, QUE SOMOS MAS; FRENTE AL #PACTOVEGAPETRO PARA ROBARSE LAS ELECCIONES. SOMOS MAS UNIDOS https://t.co/KpcXgLOFOJ	negative	positive
+140	@Abogado_JorgeEH @dica7810 @Jesus74502271 @FicoGutierrez ¿En qué país vive?¿Habla de las elecciones en Colombia?	positive	negative
+142	"#COLOMBIA: Si vas a cubrir las elecciones necesitas un plan de comunicación. 
+
+Alerta rápidamente a los demás si algo te ha sucedido y proporciona toda la información necesaria para poner en marcha una respuesta adecuada.  @ACOSalliance 
+
+Encuéntralo aquí: https://t.co/b7OZvGdeDc https://t.co/420CLbD7Ur"	positive	negative
+148	Dios no permita que se *DEMOCRATICEN LAS URNAS DE VOTACIÓN NI LOS VOTOS EN LAS ELECCIONES PRESIDENCIALES DEL 29 MAYO O EN SEGUNDA VUELTA EL19 DE JUNIO* ahí si que no habría más democracia en Colombia. #CualquieraMenosPetro #OjoConEl2022 #OjoConEl2022PodriaNoHaber2026	negative	positive
+156	"Marbelle amenaza con irse de Colombia si Petro gana las elecciones ??????
+
+La caleña tiene decidido abandonar el país si el candidato del Pacto Histórico gana su lugar en la Casa de Nariño por los próximos cuatro años. #tuvozpereira https://t.co/GHdCZ9AJZA"	positive	negative
+157	"El 29 de mayo, serán 
+Las Elecciones en Colombia. https://t.co/k01o3i9ero"	positive	negative
+158	Colombia: La amenaza del golpe y las elecciones  https://t.co/nY3rKAFBbL https://t.co/4lI1Pif9aF	negative	positive
+162	"Me salió esto ??
+
+https://t.co/TJokUajStC"	positive	negative
+168	Así reaccionaron algunos candidatos al alza de la #inflación Variación anual del IPC llegó a 9,23% en abril, informó el @DANE_Colombia . Esto dijeron los aspirantes a la Presidencia sobre el dato, el más alto en 21 años. https://t.co/KkxlGRIPCi via @Portafolioco	negative	positive
+171	"#VIDEO Rodolfo Hernández: ""Fajardo como que ya pasó a la historia"". https://t.co/pSC4N4Q5ZX https://t.co/3RaV9yqwaT"	positive	negative
+172	"#Colombia: “En un discurso, el aspirante a la Casa de Nariño prometió restablecer las relaciones diplomáticas y consulares con #Venezuela, así como la apertura de la frontera común que se interrumpió desde 2015 por orden de Nicolás Maduro”
+
+#Latinoamérica https://t.co/vriRjpHlPD"	positive	negative
+175	@GustavoBolivar Debieran inventar algo diferente están igual que Chávez y Maduro cada vez que vienen elecciones inventaba guerras con Colombia, que había intereses en matarlo y ustedes igualito inventan enfermedades, atentados etc, etc.	positive	negative
+176	"Les comparto publicación de mi artículo ""Elecciones Colombia 2022""en la Revista Argentina de Derecho Electoral. 
+https://t.co/Ntm0DuF9Pc https://t.co/6sB6OXjzaA"	positive	negative
+181	"@NHolhuin @alezandrazam72 Modelo de Tutela que busca dar ""Tranquilidad"" Para las Elecciones Presidenciales del #29Mayo 2022 en #Colombia 
+https://t.co/DRb5uWlUa3"	positive	negative
+184	"@CARLOSFMEJIA @infopresidencia @PGN_COL @FiscaliaCol @CNE_COLOMBIA Así es.
+Es lo correcto.
+Hacer bien las elecciones.
+Esa es democracia."	positive	negative
+185	"Lo que me queda claro con este video es que los jurados de votación en las elecciones pasadas eran petristas.
+Para las proximas elecciones presidenciales el @CNE_COLOMBIA y la @Registraduria debe garantizarnos que los jurados todos no sean de la izquierda.
+#FicoUneAColombia https://t.co/jPUpwZzQCq"	negative	positive
+188	"???? Después de todo el manto de dudas y fraudes de las pasadas elecciones en #Colombia, que confianza produce las votaciones del 29 de Mayo??
+/RT"	negative	positive
+189	"LAS FARC se van de frente con #GustavoPetro. 
+Y decían que Juan Manuel Santos no había negociado el país con las FARC. Ahí están, a punto de quedarse con él. Tan linda que es Colombia pero si no la defendemos en estas elecciones la perderemos para siempre. https://t.co/ijkgDmdxiD"	positive	negative
+191	Cuando son las elecciones en colombia ?	positive	negative
+193	"???? QUE COMIENCE EL SHOW
+COLOMBIANO (CAMINO A ELECCIONES PRESIDENCIALES EN COLOMBIA).
+
+A 23 dias para la primera ronda presidencial, se devela el pacto que hay detras.
+
+https://t.co/ugZhjFXZOD"	negative	positive
+200	Sudamérica quiere cambios en paz; ojalá se respete la voluntad de los pueblos de la Patria Grande =&gt; Colombia | Petro anuncia que si gana restablecerá las relaciones diplomáticas y consulares con Venezuela - NODAL https://t.co/VGVSbMghEb	positive	negative
+205	"El candidato presidencial dice que buscará llegar al poder “sin comprar votos con plata robada del pueblo colombiano”.
+
+¿#ASonDeQué quiere ser presidente?
+
+#Elecciones2022 #ColombiaDecide #RodolfoHernandez
+https://t.co/9kDluOH8as"	negative	positive
+207	"Juntos lograremos un país de orden y oportunidades para todos????
+
+ #FicoPresidente #MeIdentiFICO #Propuestas #Agro #PlanDeGobierno #Elecciones #Politica #Salud #Libertad #Democracia #Colombia"	positive	negative
+210	Haga “match” con la elección presidencial | EL ESPECTADOR https://t.co/LD3WviiaEz	positive	negative
+214	Petro retomará lazos con Venezuela si llega a Presidencia de Colombia https://t.co/U2HIRmOSsR	negative	positive
+220	@RevistaSemana El tema es que quién lo dice, es el mayor delincuente de la historia de Colombia, ¿Cómo le van a robar elecciones al líder de la corrupción en Colombia?	negative	positive
+223	@LaNocheNTN24 @LuisGPerezCasas @CGurisattiNTN24 Bla bla bla … nos van a robar las elecciones de mayo . Ojo Colombia ???? no estoy de acuerdo con el fallo. No hay justicia	negative	positive
+227	@EEColombia2020 @JEP_Colombia Lo de la guerrilla que espere, estamos en elecciones y hay que impulsar al candidato guerrillero ( Petro) , todo los que sea falsos positivos , autodefensas y que sirva para ensuciar a Uribe injustamente hay que filtrarlo ya !!!!!	negative	positive
+229	Los votos que se necesitan para ganar la Presidencia en la primera vuelta https://t.co/HIRULhpha0	positive	negative
+230	"campaña de Gustavo Petro,
+Algo que el político colombiano, candidato de la izquierda a la presidencia de Colombia en las próximas elecciones del 29 de mayo, ha negado.
+Sin embargo, cuando el pasado mes de abril se trasladó a Madrid para tomarle declaración la magistrada de la..."	positive	negative
+232	@CARLOSFMEJIA @infopresidencia @PGN_COL @FiscaliaCol @CNE_COLOMBIA Si la Dra Cabello no se pronuncia y no aparta al Registrador y se roban las elecciones como las del congreso,, va tener culpabilidad porque hay pruebas suficientes,, y la corte que lo eligió también es cómplice si no se pronuncian y lo apartan del cargo, eviten algo peor,????????????	positive	negative
+236	"Aprovechando la coyuntura del PARO ARMADO en Colombia, voy a hacer la siguiente encuesta sin artimañas de formulación.
+
+Tu experiencia personal de las elecciones es:
+
+A) Un proceso libre y democrático de deliberación racional
+B) Un ABSURDO"	negative	positive
+238	"#ColombiaMiElección Bajo el lema: “¡Liberemos a Colombia de las maquinarias y la corrupción!”, la aspirante a la presidencia, Ingrid Betancourt, presentó las líneas estratégicas del plan de gobierno.
+
+https://t.co/j8H8rcwrmW"	positive	negative
+245	Así reaccionaron algunos candidatos al alza de la #inflación Variación anual del IPC llegó a 9,23% en abril, informó el @DANE_Colombia . Esto dijeron los aspirantes a la Presidencia sobre el dato, el más alto en 21 años. https://t.co/KkxlGRIPCi via @Portafolioco	negative	positive
+247	"¿Quién es ese candidato que defiende sus mismas ideas? ??
+
+¡Descubralo en nuestro #MatchPresidencial! Una herramienta que creamos junto a @cifrasyconcepto y @elespectador para que el próximo 29 de mayo salga a votar por su candidato ideal. 
+
+https://t.co/x1nxEYCfD7 https://t.co/78W2DyWiKB"	positive	negative
+249	Gastón Garriga: cómo multiplicar algunas ideas de CFK/Colombia avanza hacia elecciones con Petro amenazado/Interacción con oyentes.	positive	negative
+252	NARCOPARAURIBISMO GENOCIDA, GARRAPATEIRO (ZAPATEIRO),CANTINFLAS MOLANO Y CLAN DEL GOLFO, ESTÁN TRABAJANDO EN LLAVE ?? PARA METER MIEDO A COLOMBIA Y ROBARSE LAS ELECCIONES DEL 29 DE MAYO. https://t.co/SDbke4RmTk	negative	positive
+254	"gobernante mas nefasto en la historia de colombia! 90% desaprobación 
+@IvanDuque te recordaremos el dia de las elecciones no permitir otro URIBISTA mas en el poder @FicoGutierrez con el historial mas oscuro y aliado de los que tiene el pais en paro!con su comandate y jefe politi https://t.co/canlQ2Fbc5"	negative	positive
+258	"Colombia es estado fallido y pretenden ser juez de países vecinos circundantes, el matarife
+@AlvaroUribeVel, no puede (ó no quiere) parar a sus paracos.
+Triste vida la de los más pobres en ese país de grandes perspectivas, Dios les ilumine y den vuelta de timón en las elecciones."	negative	positive
+260	@correawilly @CNE_COLOMBIA Leído los documentos provenientes de cada circunscripción territorial y de la internacional, se declaró el resultado de la Cámara por circunscripción internacional y se recibieron más de 1000 solicitudes y reclamaciones respecto de elecciones de Senado y Cámaras étnicas, …	positive	negative
+268	Willian Malkun ganó elecciones a rectoría de la UniCartagena https://t.co/MDWRzjblpu #CartagenadeIndias #Bolívar #Universidadespúblicas #Colombia https://t.co/6u4RQyNBKj	positive	negative
+269	"EL órgano de control evaluará los hechos para garantizar la idoneidad de los jurados de votación y lograr unas Elecciones Transparentes.??
+
+https://t.co/jWAc4byuUL"	positive	negative
+270	Actualidad, Elecciones, Manipulación Social  y Agenda del Miedo en Colombia. https://t.co/tN0PbrCr22	negative	positive
+271	@PGN_COL @RedMasNoticias @NoticiasCaracol @NoticiasRCN @elespectador @ElNuevoSiglo @AtlanticoEmi @larepublica_co @elheraldoco @RevistaSemana @BluRadioCo Y es que la procuraduria existe en colombia ?vea ps ,la hora de aparecer a 15 dias de elecciones presidenciales cuando ya no hay nada que hacer muy charros	negative	positive
+274	En Colombia con las elecciones	positive	negative
+276	"#ColombiaDecide | Fajardo les respondió a quienes le piden un encuentro con Gustavo Petro
+
+https://t.co/5IhrL6apo4"	positive	negative
+277	"No sabe por quién votar el próximo 29 de mayo, vea está buena herramienta de @elespectador @fundacionFESCOL  y @cifrasyconcepto  Clave una vez haga ""match"" entre y conozca más de su posible candidato.  https://t.co/sjy3HgovbL"	positive	negative
+282	Además, los gráficos y mapas electorales demuestran la importancia electoral que tiene el centro del país, ante la densidad poblacional y la tradición de salir a votar. https://t.co/tVxPTMLkC2	positive	negative
+285	"#ColombiaDecide | Federico Gutiérrez desde Riohacha: Hay quienes “negocian con corruptos en las cárceles”
+
+https://t.co/IM628eMlaR"	negative	positive
+286	@lafm tremendo informe de la posible corrupción en el fraude del pasado 13 de marzo a la Colombia humana le asignaron 24 mil jurados que si votaron 2 veces cada uno significaría el robo más grande en Colombia, y el registrador intento quitar la huella y la firma de las elecciones	positive	negative
+287	@CoronelBillKil1 El tipo más demócrata de Colombia es Petro. No solo le robaron las elecciones de hace 4 años ,sino que el estamento no se ha encargado sino de perseguirlo con sanciones y faltas investigaciones. Todo lo ha ganado Petro	positive	negative
+292	"Viví de cerca el CAMBIO de Venezuela.
+
+Fue el pais más rico de América Latina, hoy su economía está destruida.
+
+A punta de decretos acaban connlas empresas  y la que sobrevive la expropian.
+
+Colombia es anticomunista y lo demostraremos en las próximas elecciones."	negative	positive
+293	¿Por qué cree usted que debe ser suspendido Alexander Vega, Registrador Nacional del Estado Civil a 23 días de las elecciones presidenciales en Colombia? Responde el abogado constitucionalista ?? @Germancalderon1 en diálogo con @JeffersonNTN24 Directora @CGurisattiNTN24 ?? https://t.co/HpbMJ16s1T	positive	negative
+297	"?? Nueva Encuesta para la opinión pública en General:
+
+?? Quedan menos de 95 días para Celebrar las Elecciones Presidenciales en Colombia.
+La pregunta del Día?
+
+?? Quien Cree Usted que Gane las Elecciones Presidenciales de la República de ?????
+
+Vota y Reetwitea."	positive	negative
+299	?? INTERNACIONALES I Colombia: trayecto final de cara a las elecciones presidenciales | Política Hoy https://t.co/ppUlHfd7bj	positive	negative
+305	"@petrogustavo Esto está imparable!
+ #ProgresistaSigueProgresista , #SúmateAlCambio , #YaLlegaElCambio .
+Sigamos sumando y logremos transformar a Colombia con Petro y Francia! A ganar las elecciones en primera vuelta! Sígueme y te sigo!"	positive	negative
+306	Haga “match” con la elección presidencial | EL ESPECTADOR https://t.co/nl4e0pwVr4	positive	negative
+311	@CARLOSFMEJIA @infopresidencia @FiscaliaCol @PGN_COL @CNE_COLOMBIA Las elecciones a @SenadoGovCo SE DEBER REPETIR…	positive	negative
+326	El candidato a la Presidencia de Colombia Gustavo Petro, anunció este viernes que retomará las relaciones diplomáticas con Venezuela si gana las elecciones y llega a la jefatura del Estado colombiano.	positive	negative
+331	"A pocos días de las elecciones presidenciales
+las Autodefensas Gaitanistas de Colombia se declaran en Paro Armado hasta el 9 de mayo. El claro desinterés social del Gobierno actual, evidenciado en la permisión de hostigamiento contra los Colombianos."	negative	positive
+332	Lo más visto del día: @LaNocheNTN24: '¿Por qué cree usted que debe ser suspendido Alexander Vega, Registrador Nacional del Estado Civil a 23 días de las elecciones presidenciales en Colombia? Responde el abogado constit… https://t.co/GYNN43Mzj2, see more https://t.co/V2dteOMxQQ	positive	negative
+333	"?? El proceso de paz entendido cómo una estructura de oportunidad, para poner fin al conflicto y escuchar a sectores sociales excluidos. ?? #CienDías N. 104 ?? https://t.co/d2YUoyQ8k6
+
+?? @JEP_Colombia https://t.co/igChGJnaFX"	positive	negative
+339	¡TOMA NOTA! La violencia del conflicto armado en Colombia resurge antes de las elecciones https://t.co/fPOo1Fwjq7	negative	positive
+342	????Elecciones en Colombia: Iglesia entrega Evangelios a candidatos presidenciales https://t.co/IAu7oEjQEU vía @aciprensa	positive	negative
+343	"En los consulados de Colombia en el exterior se adelantan las pruebas de funcionalidad para las elecciones de presidente y vicepresidente de la república. En el país, la Registraduría Nacional alista los simulacros para los comicios del 29 de mayo.
+
+#GarantesDeLaDemocracia https://t.co/7NOQaPod0z"	positive	negative
+344	@condeza6 @Gonzalo00333993 @Pura_Miel @Registraduria @CNE_COLOMBIA @moecolombia @PGN_COL Coño que porquería de país , acaso la procuradora se revolcó con el registrador y le tomo fotos y videos que la tiene chantajeada o que , que carajos es lo que esa vieja está esperando que se forme un mierdero el día de las elecciones?	positive	negative
+345	Colombia depende de renuncia/destitución de Alexander Vega de @Registraduria, y de auditoría imparcial que contrate @CNE_COLOMBIA (que lo dudo), fraude ocurrido en pasadas elecciones es de registrarlo en historia de Colombia, estas 2 instituciones dejan mucho que pensar.	negative	positive
+351	Una vez más, en la plaza Alfonso López ,tal como se había planeado ,la tarde de este viernes 6 de Mayo ,llegó a Valledupar @petrogustavo Máximo candidato a vencer en las próximas elecciones a la presidencia por Colombia. https://t.co/YYpzUWPN1C	positive	negative
+354	"Mi match electoral no puede ser más cierto ???? @sergio_fajardo  ¡vamos con toda! ?? #MatchElectoral  
+
+Para conocer quién sería su match más acorde a sus posturas económicas y sociales para la presidencia: https://t.co/Hb5yhh8elH y mandan fotico a ver que les sale ???? https://t.co/NG4X9fRwCa"	positive	negative
+355	El Liverpool del colombiano Luis Diáz disputará la final de la Champions League el 28 de mayo, justo un día antes de las elecciones en Colombia. https://t.co/zpfUPNuImf	positive	negative
+356	"¿Cuántos votos necesitaron Duque y Petro para ir a segunda vuelta en 2018?
+https://t.co/aS2FPlnbAU https://t.co/xddQRBZFYF"	positive	negative
+357	"""Lo que está viviendo Latinoamérica, cortesías de los procesos del Foro de Sao Paulo, se va poniendo realmente delicado. Hay que estar pendiente de lo que sucede en Chile y Perú, previo a las elecciones de Colombia."" @Noelleal"	positive	negative
+358	@DianiSierraG @RHpresidente @ingrodolfohdez Se acercan las elecciones del 29 y cada vez nos convencemos más que el mejor candidato para manejar las riendas de Colombia es el Ing. RODOLFO HERNANDEZ https://t.co/GxDWZ8zITM	positive	negative
+361	El izquierdista Gustavo Petro lidera encuestas de cara a las presidenciales en Colombia https://t.co/tpk8aLcoE3 via @France24_es	negative	positive
+367	"AGUSTÍN LAJE HABLA SOBRE LAS ELECCIONES EN COLOMBIA.
+""En primera vuelta voten por el mejor""
+https://t.co/POHxAx6nVv"	positive	negative
+370	@DIAPOLA @MargaritaRepo @caballobraulio @petrogustavo @PGN_COL @CNE_COLOMBIA @IvanDuque @infopresidencia ADELANTE CON LA TUTELATÓN. QUIEN SE APUNTA??' ...ALLI GANAMOS, LOS BUENOS, QUE SOMOS MAS; FRENTE AL #PACTOVEGAPETRO PARA ROBARSE LAS ELECCIONES cesaraugustoramirezvalencia@gmail.com si me das tu correo envío tutela. GRACIAS UNIDOS GANAMOS #FICOPRESIDENTE  https://t.co/KpcXgLOFOJ	negative	positive
+371	"El Colombiano: Elecciones al mando de Vega tuvieron deficiencias que requieren correctivos: Tribunal tras negar su suspensión.
+https://t.co/EBwpUU4GkD
+
+a través de @GoogleNews"	negative	positive
+374	"Match presidencial: descubra su candidato ideal para las elecciones en Colombia | El Espectador #elEspectador
+
+??#trendeconciencia
+??
+?? 
+https://t.co/14UgzE8rpJ via @PodcastAddict https://t.co/dFY6PvhhHS"	positive	negative
+376	"El próximo 2 de junio se realizará el ""Debate Feminista: Colombia 2022"" con los candidatos presidenciales que logren llegar a segunda vuelta ??????
+
+https://t.co/zpHp59ivvi"	positive	negative
+379	"¿Qué es la Ley de Garantías y por qué la Corte Constitucional tumbó su reforma?
+
+https://t.co/qRNy77hLm6"	positive	negative
+381	"@losdanieles ¿Sería posible conocer sus argumentos (de todo el equipo de los danieles) acerca de por quién ""votarían""? Me y nos yudaría mucho a una cantidad de personas que no tenemos claro cómo aportarle a Colombia en las próximas elecciones."	positive	negative
+383	En #QuímicaEnLaFórmula, la candidata Ingrid Betancourt contó qué tanto sabe de su fórmula, en el camino a la Presidencia de Colombia ?? https://t.co/KTgkWN1G2H	positive	negative
+384	@RenataSokolov A ustedes, la derecha, buscando alterar el orden público para suspender elecciones y perpetuar el régimen de terror que pretende amedrentarnos...pero Colombia dijo no más y con Petro ganaremos en primera vuelta.	positive	negative
+388	Con esto del paro armado y el miedo generado a la población, solo llego a la conclusión de para qué elecciones si ya sabemos quien gobierna a Colombia.	positive	negative
+390	"Hoy amanece colombia secuestrada y sitiada por los amigos de un candidato que lleva las politicas de un expresidente durante los ultimos años y tiene a un pais en jaque!
+Tenemos la posibilidad de salvar a colombia en estas elecciones 2022.
+Tenemos el derecho al cambio y a la paz https://t.co/gf6MHsLrkc"	positive	negative
+393	"Tres semanas para unas elecciones claves en Colombia: @petrogustavo encabeza las encuestas, el lunes denunció un plan para asesinarlo. En segundo lugar está Gutiérrez, aliado al uribismo, que busca llegar al balotaje. El análisis para @CarasyCaretasuy. 
+
+https://t.co/HDd8ACTHI6"	positive	negative
+398	"#ElRiesgoEs  ????
+???
+1.- permitir que llegue al poder el comunismo y el socialismo del siglo XXI.
+2.- no votar en conciencia.
+3.- la compra de conciencias débiles… muy débiles.?
+
+#Colombia #Medellín #Elecciones #Política @LaFM @darcyquinnr @lcvelez @FicoGutierrez @ifmnoticias"	negative	positive
+399	La. Justicia en colombia es una mierda. El registrador va a torcer las elecciones. Donde esta el presidente par aq suspendan. Retiren del cargo a ese perro https://t.co/l3ofo0FE2l	negative	positive
+400	"???????Junto a más de 30 organizaciones y colectivas defensoras de derechos humanos convocamos al primer debate feminista de cara a las elecciones presidenciales de Colombia del 29 de mayo de 2022.
+
+#EleccionesColombia2022 #HablemosDeLasElecciones2022 #EleccionesPresidenciales2022 https://t.co/B4sjlQ59aC"	positive	negative
+401	"#Video ¿Cuántos votos necesitaron Duque y Petro para ir a segunda vuelta en 2018?
+
+https://t.co/aS2FPlEMss https://t.co/QeJ0A1fnBe"	positive	negative
+403	Lo he analizado toda la mañana y verdaderamente la época de elecciones en Colombia es TERRORÍFICA.	negative	positive
+404	"#Video ¿Cuántos votos necesitaron Duque y Petro para ir a segunda vuelta en 2018?
+
+https://t.co/OhVfQMi6TU https://t.co/NmDDU27LFL"	positive	negative
+407	@Soylaauraaa @richiparedesh Dios que angustia. Ojalá alguien haga algo. Que impotencia. Si quieren que se queden con las elecciones, pero que dejen a Colombia en paz.	negative	positive
+408	Me late que en estas elecciones las mujeres de Colombia somos las que vamos a poner Presidente ?????? #FicoPresidenteEnPrimeraVuelta https://t.co/Kb5EIULNlJ	positive	negative
+410	La. Justicia en colombia es una mierda. El registrador va a torcer las elecciones. Donde esta el presidente par aq suspendan. Retiren del cargo a ese perro https://t.co/l3ofo0FE2l	negative	positive
+414	"EnerNews | El peso del petróleo en la ruta de los candidatos en Colombia
+
+?? https://t.co/8ShA3O33SD
+
+#petróleo #Colombia #Elecciones https://t.co/ipVNfs8Zhv"	positive	negative
+416	"@supershadai @Registraduria Quien o que institución en Colombia atiende los reclamos al fraude electoral?
+Porque no suspender a al registrador que ya la defeco en las elecciones de senado y camara.
+Hay una desconfianza general en cuanto a las presidenciales.
+Están provocando una respuesta violenta."	negative	positive
+419	@Registraduria @PGN_COL @CGR_Colombia @moecolombia Muy buenas garantias, dan el soporte de que quieren brindar un buen servicio y seguridad en las próximas elecciones, para que por fin todos los Colombianos se animen a ser parte de una nueva Colombia	positive	negative
+420	#QuienRespondePor la afirmación de Sanchez Cristo de que Francia es la Vicepresidenta de Colombia ?. Hasta donde se las elecciones son el próximo 29. Que no te traicione tal facilmente el subconsciente	negative	positive
+423	@CCSILVA86 @jlreales @Lolita_Celedon @petrogustavo Quien llena, llena antes, durante o despues del festival, eso no es nuevo para la campaña de Petro quien vienes desde las elecciones pasadas llenando plazas en toda Colombia.	positive	negative
+425	"???? Te presentamos las propuestas #TIC de los candidatos presidenciales en #Colombia ????
+https://t.co/C1jM1OxDRp"	positive	negative
+426	Se aplica para las elecciones en Colombia. Si no, miren la hinchada del marxista borracho. https://t.co/74BLE9t913	negative	positive
+430	"Modelo de Tutela que busca dar ""Tranquilidad"" Para las Elecciones Presidenciales del #29Mayo 2022 en #Colombia 
+https://t.co/Mg9cirfTIo"	positive	negative
+440	Esto está increíble. Saca la conversación de los personalismos y pone el debate sobre las ideas y la afinidad ideológica, gente. Entrénle a este match político de @fundacionFESCOL. Espectacular @Saruy ???????????????? https://t.co/0tyZdteu0Z	negative	positive
+447	"El candidato presidencial del Pacto Histórico retomó su actividad en tarimas, a pesar de las amenazas que denunció esta semana. Cúcuta y Valledupar son las ciudades en las que reanudó su agenda.
+https://t.co/kDmmaQuF1v"	positive	negative
+448	Esta inversión en pauta publicitaria que puede ser decisiva en el momento de las elecciones y que pueda variar resultados se hace bajo la mirada complice de @GoogleColombia que a nivel global tiene políticas publicitarias que extrañamente no se siguen en Colombia.	negative	positive
+450	@ElDelMedallo @teffygiraldo06 Y va subiendo la tasa de asesinatos en Colombia, con el nuevo terrorismo pre elecciones. ¡NO SON BUENOS DÍAS!	negative	positive
+453	"Con esta ley, que se intentó modificar varias veces en anteriores contiendas, la intención principal era asegurar que las campañas electorales se llevaran a cabo en condiciones igualitarias y transparentes.
+
+#Elecciones2022 #ColombiaDecide 
+https://t.co/qRNy77hLm6"	positive	negative
+454	"Las mayorías gobiernistas en el Congreso sabian que modificar la Ley de Garantías era contrario a la Constitución, aún así aprobaron modificarla para meter billones de pesos del presupuesto público a elecciones a través de convenios interadministrativos.
+
+https://t.co/GysrfVSBSo"	negative	positive
+458	"35 municipios, en seis departamentos, paralizados por paro armado del Clan del Golfo. 
+
+Colombia, con la inflación más alta en 22 años.
+
+Caos por Ley de garantías durante elecciones.
+
+Benito lanzó disco de 23 canciones.
+
+Taylor Swift estrena This Love TV, de su ya grammy 1989
+
+??"	negative	positive
+461	"???? ¿Qué pasaría en un ballotage entre @petrogustavo
+y @FicoGutierrez?
+
+?? A un mes de las elecciones que definirán el futuro del país, le preguntamos a 3 mil colombianos y colombianas y este es el resultado  ??
+
+https://t.co/Gsqqol98zk https://t.co/QDX164ZE9U"	positive	negative
+462	El candidato a la Presidencia de Colombia por el Pacto Histórico, Gustavo Petro, anunció este viernes que retomará las relaciones diplomáticas con Venezuela si gana las elecciones y llega a la jefatura del Estado, informó el periódico local El Tiempo. (RT) https://t.co/AKl1lblBuO	positive	negative
+476	"El candidato a la Presidencia favorito de #Colombia, #GustavoPetro anunció este viernes que retomará las relaciones diplomáticas con #Venezuela si gana las elecciones y por lo tanto reconocerá al legítimo gobierno del presidente #NicolásMaduro. 
+
+#Nicaragua https://t.co/ZLhSABBjNj"	positive	negative
+477	La izquierda se dedicó A proteger cuanto criminal aparezca. Sí la izquierda extrema como la de Petro Gana Las elecciones será la criminalidad la que gobierne A colombia desde ése momento.	positive	negative
+479	"El candidato presidencial @ingrodolfohdez dice que buscará llegar al poder “sin comprar votos con plata robada del pueblo colombiano”. ¿#ASonDeQué quiere ser presidente? 
+
+https://t.co/9kDluOHG00
+
+#Elecciones2022 #ColombiaDecide https://t.co/HembUIeVXb"	negative	positive
+480	Procuraduría alerta que 2.925 jurados de votación están inhabilitados para elecciones Colombia via @ElColombiano https://t.co/lCdwAtuKoM	negative	positive
+485	A pocas semanas de las elecciones presidenciales en Colombia, el internacionalista argentino Juan Pablo de María dialogó con GPS Internacional para analizar las perspectivas en torno a las implicaciones de una eventual victoria de Petro para la integración latinoamericana.	positive	negative
+486	No encontraron otra alternativa que llenar de miedo a Colombia, utilizan sus paramilitares para ganar elecciones. Es ahora o nunca @petrogustavo	positive	negative
+487	#ElRiesgoEs perder la senda de crecimiento por la que va Colombia después de elecciones. El FMI, el Banco de la República y el Banco Mundial proyectan que nuestra economía sea una de las que más crezca en la región este año. Hay que cuidar la inversión y la productividad del pais	positive	negative
+491	"Luis Pérez se caracteriza por tener un estilo de ropa colorida y a la medida. En este capítulo de #ElHilo le contamos qué comunica con las prendas que usa el candidato.
+https://t.co/BQkQzsF1Mu
+
+#Elecciones2022 #ColombiaDecide https://t.co/qSKzzQgQn2"	positive	negative
+492	"@Oscarkast13 @palana61 Será que Colombia está a punto de vivir en carne propia lo sucedido en las elecciones de los Estados Unidos? 
+Que guarden este trino también. 
+??????
+??????"	positive	negative
+496	"???Apertura y estabilidad democrática en Colombia, ?? el análisis de Daniel Ricardo Amaya en revista #CienDías edición N. 104 ?? https://t.co/d2YUoyQ8k6
+
+?? @PactoHistorico https://t.co/c1UQd4KNDJ"	positive	negative
+503	"De aquí a 23 dias de elecciones 
+Y con la ayuda de el clan del Golfo habrá un golpe de estado de toda las ffmm de Colombia.Policia,Ejercito,paramilitarismo, Y aguilas negras en general.todas ellas.unidas.Dios proteja a Colombia de tanto bandido en el poder."	positive	negative
+504	#ColombiaDecide | Fajardo les respondió a quienes le piden un encuentro con Gustavo Petro https://t.co/5IhrL6apo4	positive	negative
+506	@JulianFMartinez @DNP_Colombia @aleboterob Estaban esperando el momento preciso. Las elecciones.	positive	negative
+513	"Lo que dicen los candidatos presidenciales sobre el paro armado del Clan del Golfo.
+
+https://t.co/uodCqXLivs https://t.co/ke7y5x6KYY"	positive	negative
+517	@MariaFdaCabal y para distraer de las elecciones dónde Colombia eligió ya Presidente 2022-2026 @FicoGutierrez https://t.co/3fcppGX1EY	positive	negative
+518	"??ESTE ES EL NÚMERO UNO EN LA @Registraduria CUMPLIENDO
+CON LA “MISIÓN” y “VISIÓN”DE
+NEGOCIAR RESULTADOS EN LAS
+ELECCIONES DE COLOMBIA?? https://t.co/dpErXAOzS1 https://t.co/OvRAyhSRG8"	positive	negative
+521	Colombia | Petro anuncia que si gana restablecerá las relaciones diplomáticas y consulares con Venezuela @InfoNodal https://t.co/X5FawyQTTi	positive	negative
+523	@_RoqueCastro Roque visualiza tu candidato ganador,visualiza la victoria de COLOMBIA. No declaren a ese hombre ganador. Trabajen su localidad Colombia está a Tiempo de salvar su pellejo y bueno toca trabajar duro..en estos días que quedan para las elecciones. ????????	positive	negative
+524	"El comunista @petrogustavo se quitó la careta este viernes y dijo que si gana las elecciones del #29Mayo en #Colombia reconocerá y trabajará diplomáticamente con el dictador @NicolasMaduro
+
+#Colombianos, no permitan que llegue el #Comunismo en su país.
+
+Voten por @FicoGutierrez https://t.co/IDWS9UoyaG"	positive	negative

@@ -1,0 +1,32 @@
+	full_text	actual	predicted
+0	No encontraron otra alternativa que llenar de miedo a Colombia, utilizan sus paramilitares para ganar elecciones. Es ahora o nunca @petrogustavo	positive	negative
+2	"@CARLOSFMEJIA @infopresidencia @PGN_COL @FiscaliaCol @CNE_COLOMBIA Así es.
+Es lo correcto.
+Hacer bien las elecciones.
+Esa es democracia."	positive	negative
+9	Un abrazo fuerte @CamiloRomero en próximas elecciones espero que mi voto sea por Usted, desde el cielo  tu madre iluminará ese camino, y el de Colombia hoy.?? https://t.co/IiVUDKZpb0	positive	negative
+14	Además, los gráficos y mapas electorales demuestran la importancia electoral que tiene el centro del país, ante la densidad poblacional y la tradición de salir a votar. https://t.co/tVxPTMLkC2	positive	negative
+63	"Viví de cerca el CAMBIO de Venezuela.
+
+Fue el pais más rico de América Latina, hoy su economía está destruida.
+
+A punta de decretos acaban connlas empresas  y la que sobrevive la expropian.
+
+Colombia es anticomunista y lo demostraremos en las próximas elecciones."	negative	positive
+80	"@petrogustavo Esto está imparable!
+ #ProgresistaSigueProgresista , #SúmateAlCambio , #YaLlegaElCambio .
+Sigamos sumando y logremos transformar a Colombia con Petro y Francia! A ganar las elecciones en primera vuelta! Sígueme y te sigo!"	positive	negative
+104	"Juntos lograremos un país de orden y oportunidades para todos????
+
+ #FicoPresidente #MeIdentiFICO #Propuestas #Agro #PlanDeGobierno #Elecciones #Politica #Salud #Libertad #Democracia #Colombia"	positive	negative
+127	Hoy en viernes de entrevista?? nuestro cofundador Carlos Jaramillo conversó con nosotros sobre emprendimiento, elecciones 2022 y consejos para los que quieren empezar su empresa en Colombia. Léela completa aquí ??https://t.co/uTedwy2rSf #blog #emprendedor #emprendimiento	positive	negative
+131	@RenataSokolov A ustedes, la derecha, buscando alterar el orden público para suspender elecciones y perpetuar el régimen de terror que pretende amedrentarnos...pero Colombia dijo no más y con Petro ganaremos en primera vuelta.	positive	negative
+134	@CoronelBillKil1 El tipo más demócrata de Colombia es Petro. No solo le robaron las elecciones de hace 4 años ,sino que el estamento no se ha encargado sino de perseguirlo con sanciones y faltas investigaciones. Todo lo ha ganado Petro	positive	negative
+136	"¡Está Joya está disponible en Netflix! 
+
+*Ojalá Colombia la vea antes de las elecciones. #LaDictaduraPerfecta 
+
+La televisión ya puso un presidente... ¿Lo volverá hacer? #ColombiaDecide https://t.co/jrnNjKSeJR"	positive	negative
+146	"Mi match electoral no puede ser más cierto ???? @sergio_fajardo  ¡vamos con toda! ?? #MatchElectoral  
+
+Para conocer quién sería su match más acorde a sus posturas económicas y sociales para la presidencia: https://t.co/Hb5yhh8elH y mandan fotico a ver que les sale ???? https://t.co/NG4X9fRwCa"	positive	negative

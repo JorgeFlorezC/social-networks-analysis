@@ -1,0 +1,67 @@
+	full_text	actual	predicted
+12	@montanertwiter Te pido que ores con todo tu corazón por el bien de Colombia, para que no nos caigamos en desgracia en las próximas elecciones. Gracias ????	positive	negative
+23	"AMÉRICA LATINA
+Golpe al uribismo y avance de la izquierda
+a semanas de las elecciones en Colombia - 
+https://t.co/DsJ3kKO3b6"	positive	negative
+37	No encontraron otra alternativa que llenar de miedo a Colombia, utilizan sus paramilitares para ganar elecciones. Es ahora o nunca @petrogustavo	positive	negative
+41	"Mi match electoral no puede ser más cierto ???? @sergio_fajardo  ¡vamos con toda! ?? #MatchElectoral  
+
+Para conocer quién sería su match más acorde a sus posturas económicas y sociales para la presidencia: https://t.co/Hb5yhh8elH y mandan fotico a ver que les sale ???? https://t.co/NG4X9fRwCa"	positive	negative
+68	@NTN24 se siente el sesgo de parte del CNE,por parte de ese magistrado además dice que está investigando pero están es ganando tiempo a que pasen las elecciones no están pensando para nada en Colombia.	negative	positive
+80	@CCSILVA86 @jlreales @Lolita_Celedon @petrogustavo Quien llena, llena antes, durante o despues del festival, eso no es nuevo para la campaña de Petro quien vienes desde las elecciones pasadas llenando plazas en toda Colombia.	positive	negative
+83	@PGN_COL S.O.S. Colombia no podemos permitir que nos roben las elecciones. Viva @PalomaValenciaL gran patriota https://t.co/N9ro2Fy5fF	positive	negative
+89	"El candidato presidencial del Pacto Histórico retomó su actividad en tarimas, a pesar de las amenazas que denunció esta semana. Cúcuta y Valledupar son las ciudades en las que reanudó su agenda.
+https://t.co/kDmmaQuF1v"	positive	negative
+92	Además, los gráficos y mapas electorales demuestran la importancia electoral que tiene el centro del país, ante la densidad poblacional y la tradición de salir a votar. https://t.co/tVxPTMLkC2	positive	negative
+100	"@lauraro Yo vote por el NO y hoy siento que nos podría pasar lo mismo con las próximas elecciones si no actuamos unidos!!
+Dejemos el odio irracional, aquí se trata es de salvar el presente y futuro de Colombia!
+Quien más se une??"	positive	negative
+107	Un abrazo fuerte @CamiloRomero en próximas elecciones espero que mi voto sea por Usted, desde el cielo  tu madre iluminará ese camino, y el de Colombia hoy.?? https://t.co/IiVUDKZpb0	positive	negative
+110	@CoronelBillKil1 El tipo más demócrata de Colombia es Petro. No solo le robaron las elecciones de hace 4 años ,sino que el estamento no se ha encargado sino de perseguirlo con sanciones y faltas investigaciones. Todo lo ha ganado Petro	positive	negative
+111	@RenataSokolov A ustedes, la derecha, buscando alterar el orden público para suspender elecciones y perpetuar el régimen de terror que pretende amedrentarnos...pero Colombia dijo no más y con Petro ganaremos en primera vuelta.	positive	negative
+116	"Juntos lograremos un país de orden y oportunidades para todos????
+
+ #FicoPresidente #MeIdentiFICO #Propuestas #Agro #PlanDeGobierno #Elecciones #Politica #Salud #Libertad #Democracia #Colombia"	positive	negative
+131	"¡Está Joya está disponible en Netflix! 
+
+*Ojalá Colombia la vea antes de las elecciones. #LaDictaduraPerfecta 
+
+La televisión ya puso un presidente... ¿Lo volverá hacer? #ColombiaDecide https://t.co/jrnNjKSeJR"	positive	negative
+147	@Elecciones_OJO @petrogustavo Usted habla de Uribe, yó estoy hablando del proximo PRESIDENTE de Colombia, le exijo respeto por la primera autoridad del país:  FICO PRESIDENTE https://t.co/bmMnu6Di2f	positive	negative
+150	"Y ustedes ¿Ya encontraron su #MatchPresidencial??Lo pueden hacer acá: https://t.co/0E1tZKypTK
+
+¡Nos gustaría saber quién es su candidato ideal! 
+Los leemos en los comentarios ?? https://t.co/H11SB9EsBV"	positive	negative
+165	@RICHENAO Al que sabemos le diré que es muy bueno hacer una auditoría Internacional para elecciones en Colombia. Una de las empresas del señor Luis Carlos Sarmiento Ángulo tiene el software de la Registraduría Nacional.	negative	positive
+167	En Colombia hace falta un presidente como @nayibbukele que no le teme a nada y va de frente contra las fuerzas oscuras aliadas con políticos que lo único que buscas es inestabilidad en el país previo a elecciones.	positive	negative
+186	???? La calificadora de riesgos le mantuvo a #Colombia su calificación crediticia confiando en que su estabilidad macroeconómica se mantendrá una vez elija nuevo presidente: https://t.co/Ajf3jcFhdX	positive	negative
+187	Hoy en viernes de entrevista?? nuestro cofundador Carlos Jaramillo conversó con nosotros sobre emprendimiento, elecciones 2022 y consejos para los que quieren empezar su empresa en Colombia. Léela completa aquí ??https://t.co/uTedwy2rSf #blog #emprendedor #emprendimiento	positive	negative
+196	"Qué buena esta herramienta de @elespectador para encontrar el candidato afín a la visión de país que uno quiere. #Recomendada ?
+Útil y pedagógica. 
+#MatchPresidencial 
+https://t.co/mIcCgFHjXy"	positive	negative
+225	"Esto está imparable!
+ #ProgresistaSigueProgresista , #SúmateAlCambio , #YaLlegaElCambio .
+Sigamos sumando y logremos transformar a Colombia con Petro y Francia! A ganar las elecciones en primera vuelta! Sígueme y te sigo!"	positive	negative
+242	"@petrogustavo Esto está imparable!
+ #ProgresistaSigueProgresista , #SúmateAlCambio , #YaLlegaElCambio .
+Sigamos sumando y logremos transformar a Colombia con Petro y Francia! A ganar las elecciones en primera vuelta! Sígueme y te sigo!"	positive	negative
+267	"@CARLOSFMEJIA @infopresidencia @PGN_COL @FiscaliaCol @CNE_COLOMBIA Así es.
+Es lo correcto.
+Hacer bien las elecciones.
+Esa es democracia."	positive	negative
+278	@DianiSierraG @RHpresidente @ingrodolfohdez Se acercan las elecciones del 29 y cada vez nos convencemos más que el mejor candidato para manejar las riendas de Colombia es el Ing. RODOLFO HERNANDEZ https://t.co/GxDWZ8zITM	positive	negative
+281	"En el Encuentro conocimos el Informe de Participación Política de las Mujeres en Elecciones 2022.
+
+Nos complace ver que el @PartidoMIRA sigue siendo un referente de participación política real de la mujer en Colombia ???? @carlos_guevara @Virguez @AnaPaolaAgudelo @aydeelizarazoc https://t.co/5D40b9TSAC"	positive	negative
+317	Me late que en estas elecciones las mujeres de Colombia somos las que vamos a poner Presidente ?????? #FicoPresidenteEnPrimeraVuelta https://t.co/Kb5EIULNlJ	positive	negative
+331	"Eso sabe   ;)
+Adelante #PetroPresidente2022 
+https://t.co/xscQ26b62m https://t.co/NIJNT0Sms7"	positive	negative
+338	"@CostaNoticiasTV @ibmtw2010 @CarrillonavasG @AliRestrepo @duvanedo @cecollm @ALFREDOHANS1 @ricardoansal @Iadossa @Gilbert_Olarte @lacoutu @pedrosoto785 @pasionpais COLOMBIA A PORTAS DE PERDER LA DEMOCRACIA LIBERTAD 
+SI ESTA ESE REGISTRADOR PRÓXIMAS ELECCIONES 
+ENTES DE CONTROL GIBIERNO 
+SILENCIO SEPUCRAL 
+EL GOBIERNO PASARA A LA HISTORIA COMO EL DEJO PERDER EL PAIS DEMOCRACIA Y LIBERTAD DE LOS COLOMBIANOS. 
+SI NO HACE NADA Y PERMITE ESTADIA"	negative	positive

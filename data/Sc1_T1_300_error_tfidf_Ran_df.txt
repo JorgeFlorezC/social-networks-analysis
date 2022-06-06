@@ -1,0 +1,159 @@
+	full_text	actual	predicted
+3	El candidato a la Presidencia de Colombia Gustavo Petro, anunció este viernes que retomará las relaciones diplomáticas con Venezuela si gana las elecciones y llega a la jefatura del Estado colombiano.	neutral	negative
+8	Petro retomará lazos con Venezuela si llega a Presidencia de Colombia https://t.co/U2HIRmOSsR	neutral	negative
+14	El Tribunal Administrativo de Cundinamarca negó la solicitud de suspensión provisional del Registrador Nacional, Alexander Vega. Sin embargo, decretó unas medidas cautelares para garantizar las elecciones. | A 23 días para la elección presidencial en Colombia, opine. https://t.co/KNA8oitIEa	positive	negative
+21	"@lauraro Yo vote por el NO y hoy siento que nos podría pasar lo mismo con las próximas elecciones si no actuamos unidos!!
+Dejemos el odio irracional, aquí se trata es de salvar el presente y futuro de Colombia!
+Quien más se une??"	positive	negative
+25	"#COLOMBIA: Si vas a cubrir las elecciones necesitas un plan de comunicación. 
+
+Alerta rápidamente a los demás si algo te ha sucedido y proporciona toda la información necesaria para poner en marcha una respuesta adecuada.  @ACOSalliance 
+
+Encuéntralo aquí: https://t.co/b7OZvGdeDc https://t.co/420CLbD7Ur"	positive	negative
+26	.@odonnellmaria y @ertenembaum entrevistan a Francia Márquez, candidata a vicepresidenta en la fórmula de Gustavo Petro para las elecciones presidenciales de Colombia. La cita, este sábado a las 9 P.M. (Miami), 10 P.M. (Buenos Aires) en #Conecta2 https://t.co/nGPrGh6HUb	neutral	negative
+36	"Ya está disponible la entrevista que le hice a mi amigo Agustín Laje sobre las elecciones en Colombia. No se lo pierdan. 
+@AgustinLaje
+ https://t.co/FeuVfOt4bZ"	neutral	negative
+41	"¿Qué comunica Luis Pérez con su forma de vestir? En este nuevo capítulo de #ElHiloEE le contamos.
+https://t.co/BQkQzsnqUW
+
+#Elecciones2022 #ColombiaDecide https://t.co/wN9s5TcbbW"	positive	negative
+42	Además, los gráficos y mapas electorales demuestran la importancia electoral que tiene el centro del país, ante la densidad poblacional y la tradición de salir a votar. https://t.co/tVxPTMLkC2	positive	negative
+45	"Ese Petro me salió como muy tirado al centro para mi gusto. ????????????????????????
+hagan su match presidencial Aquí!!!!
+
+https://t.co/ZMNhI0Lvl3 https://t.co/5XSAZbZs92 https://t.co/CRRkJy51fu"	positive	negative
+47	"El pedido que le hizo la Conferencia Episcopal a los candidatos presidenciales.
+
+https://t.co/ODJYR5Pk6u https://t.co/lgKq03wQma"	positive	negative
+54	Sí en Colombia no van a existir garantías para unas elecciones transparentes y democráticas pues general Zapateiro...salve usted la patria. ?????? https://t.co/3ssAR28dUj	neutral	negative
+55	"¡Viva Petro!
+Colombia | Petro anuncia que si gana restablecerá las relaciones diplomáticas y consulares con Venezuela @InfoNodal https://t.co/VjYoQsWoY1"	neutral	negative
+62	"@Oscarkast13 @palana61 Será que Colombia está a punto de vivir en carne propia lo sucedido en las elecciones de los Estados Unidos? 
+Que guarden este trino también. 
+??????
+??????"	neutral	negative
+68	Colombia | Petro anuncia que si gana restablecerá las relaciones diplomáticas y consulares con Venezuela @InfoNodal https://t.co/voHsTypdi3	neutral	negative
+69	"@Lucho_Matto @JulianFMartinez @IvanDuque @DNP_Colombia que van a retener cedulas de trabajadores hasta despues de las elecciones. Suplantacion de identidad.
+Propongo: ordenar a Los jurados que tienen que preguntar al votante la fecha de nacimiento y numero de cedula.
+si no se la saben toca ver si son los dueños reales de esa cedula."	neutral	negative
+76	#ColombiaDecide | Sergio Fajardo avanza en su campaña política desde Boyacá, allí se reencontró con Carlos Amaya y aprovechó para hablar de la importancia de la minería en el país pero con una transformación desde el ámbito social. Más en https://t.co/0Rr4ts0rOv https://t.co/341nWKZGkR	neutral	negative
+77	"Lo que dicen los candidatos presidenciales sobre el paro armado del Clan del Golfo.
+
+https://t.co/uodCqXLivs https://t.co/ke7y5x6KYY"	positive	negative
+82	El Liverpool del colombiano Luis Diáz disputará la final de la Champions League el 28 de mayo, justo un día antes de las elecciones en Colombia. https://t.co/zpfUPNuImf	positive	negative
+95	"?? Nueva Encuesta para la opinión pública en General:
+
+?? Quedan menos de 95 días para Celebrar las Elecciones Presidenciales en Colombia.
+La pregunta del Día?
+
+?? Quien Cree Usted que Gane las Elecciones Presidenciales de la República de ?????
+
+Vota y Reetwitea."	positive	negative
+96	???? La calificadora de riesgos le mantuvo a #Colombia su calificación crediticia confiando en que su estabilidad macroeconómica se mantendrá una vez elija nuevo presidente: https://t.co/Ajf3jcFhdX	positive	negative
+108	"Esta es la recopilación de los tarjetones de los últimos 28 años en el país. ¿Cuáles recuerda? 
+
+#Elecciones2022 #ColombiaDecide 
+https://t.co/7jcyCwQuni"	positive	negative
+110	"El próximo 2 de junio se realizará el ""Debate Feminista: Colombia 2022"" con los candidatos presidenciales que logren llegar a segunda vuelta ??????
+
+https://t.co/zpHp59ivvi"	positive	neutral
+115	#ColombiaDecide Candidatos presidenciales explican cómo combatirían la alta inflación en Colombia https://t.co/ah4JhNjfpf	positive	neutral
+116	#ColombiaDecide | Federico Gutiérrez estuvo en San Andrés y la Guajira, analizó el panorama ante la disputa de mar con Nicaragua y aseguró que no dialogaría con el Gobierno de Daniel Ortega. Más en https://t.co/0Rr4ts0rOv https://t.co/Au02d1r31M	positive	negative
+118	El candidato a la Presidencia de Colombia por el Pacto Histórico, Gustavo Petro, anunció este viernes que retomará las relaciones diplomáticas con Venezuela si gana las elecciones y llega a la jefatura del Estado, informó el periódico local El Tiempo. (RT) https://t.co/AKl1lblBuO	neutral	negative
+122	Cuando son las elecciones en colombia ?	neutral	negative
+123	"@petrogustavo Esto está imparable!
+ #ProgresistaSigueProgresista , #SúmateAlCambio , #YaLlegaElCambio .
+Sigamos sumando y logremos transformar a Colombia con Petro y Francia! A ganar las elecciones en primera vuelta! Sígueme y te sigo!"	positive	negative
+124	Colombia | Petro anuncia que si gana restablecerá las relaciones diplomáticas y consulares con Venezuela @InfoNodal https://t.co/X5FawyQTTi	neutral	negative
+130	@Registraduria @PGN_COL @CGR_Colombia @moecolombia Muy buenas garantias, dan el soporte de que quieren brindar un buen servicio y seguridad en las próximas elecciones, para que por fin todos los Colombianos se animen a ser parte de una nueva Colombia	positive	negative
+136	"???? ¿Qué pasaría en un ballotage entre @petrogustavo
+y @FicoGutierrez?
+
+?? A un mes de las elecciones que definirán el futuro del país, le preguntamos a 3 mil colombianos y colombianas y este es el resultado  ??
+
+https://t.co/Gsqqol98zk https://t.co/QDX164ZE9U"	neutral	negative
+143	"El izquierdista Gustavo Petro, uno de los favoritos para las elecciones presidenciales de Colombia que se celebrarán a #Petro #reanudará #relacion #Venezuela finales de mes, dijo que de resultar ganador, reanudará las relaciones con Venezuela,
+
+https://t.co/mai23eROOt https://t.co/bdtOmt3EfO"	neutral	negative
+147	"Mi match electoral no puede ser más cierto ???? @sergio_fajardo  ¡vamos con toda! ?? #MatchElectoral  
+
+Para conocer quién sería su match más acorde a sus posturas económicas y sociales para la presidencia: https://t.co/Hb5yhh8elH y mandan fotico a ver que les sale ???? https://t.co/NG4X9fRwCa"	positive	negative
+148	"El candidato presidencial del Pacto Histórico retomó su actividad en tarimas, a pesar de las amenazas que denunció esta semana. Cúcuta y Valledupar son las ciudades en las que reanudó su agenda.
+https://t.co/kDmmaQuF1v"	positive	negative
+153	Willian Malkun ganó elecciones a rectoría de la UniCartagena https://t.co/MDWRzjblpu #CartagenadeIndias #Bolívar #Universidadespúblicas #Colombia https://t.co/6u4RQyNBKj	neutral	negative
+157	"Se acercan las elecciones presidenciales en Colombia y las comparaciones con Venezuela han sido inevitables.  ¿Está Colombia como Venezuela? #Análisis  por @jgmartinez522
+
+Haz clic en el video para más detalles ??
+ https://t.co/zfKDhPWfAK"	neutral	negative
+168	.@odonnellmaria y @ertenembaum entrevistan a Francia Márquez, candidata a vicepresidenta en la fórmula de Gustavo Petro para las elecciones presidenciales de Colombia. La cita, este sábado a las 9 P.M. (Miami), 10 P.M. (Buenos Aires) en #Conecta2 https://t.co/kafAFBTPv2	neutral	negative
+175	"Marbelle amenaza con irse de Colombia si Petro gana las elecciones ??????
+
+La caleña tiene decidido abandonar el país si el candidato del Pacto Histórico gana su lugar en la Casa de Nariño por los próximos cuatro años. #tuvozpereira https://t.co/GHdCZ9AJZA"	neutral	negative
+178	@JulianFMartinez @DNP_Colombia @aleboterob Estaban esperando el momento preciso. Las elecciones.	neutral	negative
+182	1) COLOMBIA ELECCIONES 2022 ¿PUEDE HABER FRAUDE? 2) LA EXTRADICIÓN A NYC... https://t.co/GYUjagjlcR vía @YouTube	neutral	negative
+187	"Match presidencial: descubra su candidato ideal para las elecciones en Colombia | El Espectador #elEspectador
+
+??#trendeconciencia
+??
+?? 
+https://t.co/14UgzE8rpJ via @PodcastAddict https://t.co/dFY6PvhhHS"	neutral	positive
+194	@PGN_COL S.O.S. Colombia no podemos permitir que nos roben las elecciones. Viva @PalomaValenciaL gran patriota https://t.co/N9ro2Fy5fF	positive	negative
+198	EN 'GESTOSO GLOBAL' LAS AMENAZAS DE MUERTE A GUSTAVO PETRO en la recta final rumbo a las Elecciones Presidenciales de Colombia con Angel Becassino Asesor de Campañas Políticas domingo desde Bogota 20:30hs por #AbyaYalaTelevision Los espero! https://t.co/YJp1qhZ2aY	neutral	negative
+199	@DianiSierraG @RHpresidente @ingrodolfohdez Se acercan las elecciones del 29 y cada vez nos convencemos más que el mejor candidato para manejar las riendas de Colombia es el Ing. RODOLFO HERNANDEZ https://t.co/GxDWZ8zITM	positive	negative
+204	.@odonnellmaria y @ertenembaum entrevistan a Francia Márquez, candidata a vicepresidenta en la fórmula de Gustavo Petro para las elecciones presidenciales de Colombia. La cita, este sábado a las 9 P.M. (Miami), 10 P.M. (Buenos Aires) en #Conecta2 https://t.co/oB0KwVMmkn	neutral	negative
+208	@ambar_ponte @DiegoFi27933574 @brisa7766433br1 @PGN_COL @moecolombia @CNE_COLOMBIA ADELANTE CON LA TUTELATÓN. QUIEN SE APUNTA??' ...ALLI GANAMOS, LOS BUENOS, QUE SOMOS MAS; FRENTE AL #PACTOVEGAPETRO PARA ROBARSE LAS ELECCIONES. SOMOS MAS UNIDOS https://t.co/KpcXgLOFOJ	positive	negative
+210	INFORME ESPECIAL Elecciones presidenciales de Colombia, todo lo que necesita saber - https://t.co/xX9R0XEAqP https://t.co/OyOd9bGUIK	positive	negative
+213	.@odonnellmaria y @ertenembaum entrevistan a Francia Márquez, candidata a vicepresidenta en la fórmula de Gustavo Petro para las elecciones presidenciales de Colombia. La cita, este sábado a las 9 P.M. (Miami), 10 P.M. (Buenos Aires) en #Conecta2 https://t.co/p93867hkre	neutral	negative
+231	"Les comparto publicación de mi artículo ""Elecciones Colombia 2022""en la Revista Argentina de Derecho Electoral. 
+https://t.co/Ntm0DuF9Pc https://t.co/6sB6OXjzaA"	positive	negative
+234	#ColombiaDecide | Gustavo Petro contó con gran afluencia en la plaza Alfonso López, en Valledupar. Por más de una hora el candidato del Pacto Histórico expuso sus propuestas y compartió con algunos de sus simpatizantes. Más en https://t.co/0Rr4ts0rOv https://t.co/iKv6rxoH7m	positive	negative
+239	"Esto está imparable!
+ #ProgresistaSigueProgresista , #SúmateAlCambio , #YaLlegaElCambio .
+Sigamos sumando y logremos transformar a Colombia con Petro y Francia! A ganar las elecciones en primera vuelta! Sígueme y te sigo!"	positive	negative
+243	"EnerNews | El peso del petróleo en la ruta de los candidatos en Colombia
+
+?? https://t.co/8ShA3O33SD
+
+#petróleo #Colombia #Elecciones https://t.co/ipVNfs8Zhv"	neutral	negative
+250	"¿No sabe por quién votar en las elecciones presidenciales?  En el #MatchPresidencial descubrirá su candidato ideal. Es fácil y divertido. La novedosa herramienta digital fue creada por @elespectador @fundacionFESCOL y @cifrasyconcepto  Pruébela aquí: 
+https://t.co/HuTnXqvL5Q https://t.co/DYo7xuBM9v"	neutral	positive
+251	@ernestomaciast @FicoGutierrez @Rodrigo_LaraS Mi querido senador bachiller, recuérdele a Colombia como votó el Meta en las pasadas elecciones legislativas, ¿cuál fue el desempeño del @UCDemocratico?	neutral	negative
+257	?? INTERNACIONALES I Colombia: trayecto final de cara a las elecciones presidenciales | Política Hoy https://t.co/ppUlHfd7bj	neutral	negative
+269	Hoy en viernes de entrevista?? nuestro cofundador Carlos Jaramillo conversó con nosotros sobre emprendimiento, elecciones 2022 y consejos para los que quieren empezar su empresa en Colombia. Léela completa aquí ??https://t.co/uTedwy2rSf #blog #emprendedor #emprendimiento	positive	negative
+270	"Yo no tengo ni beneficios ni problemas derivados de las elecciones presidenciales en Colombia 2022.
+
+Elijan a quien elijan, el 30 de mayo me toca ir a trabajar y el 8 de agosto creo que también."	positive	negative
+276	"Lo que me queda claro con este video es que los jurados de votación en las elecciones pasadas eran petristas.
+Para las proximas elecciones presidenciales el @CNE_COLOMBIA y la @Registraduria debe garantizarnos que los jurados todos no sean de la izquierda.
+#FicoUneAColombia https://t.co/jPUpwZzQCq"	negative	neutral
+283	"En el Encuentro conocimos el Informe de Participación Política de las Mujeres en Elecciones 2022.
+
+Nos complace ver que el @PartidoMIRA sigue siendo un referente de participación política real de la mujer en Colombia ???? @carlos_guevara @Virguez @AnaPaolaAgudelo @aydeelizarazoc https://t.co/5D40b9TSAC"	positive	negative
+287	"El candidato presidencial Rodolfo Hernández se refirió en Sigue La W sobre las alianzas políticas de cara a las elecciones.
+https://t.co/DuBfISBrHx"	positive	negative
+290	Lo más visto del día: @LaNocheNTN24: '¿Por qué cree usted que debe ser suspendido Alexander Vega, Registrador Nacional del Estado Civil a 23 días de las elecciones presidenciales en Colombia? Responde el abogado constit… https://t.co/GYNN43Mzj2, see more https://t.co/V2dteOMxQQ	positive	negative
+291	"EL órgano de control evaluará los hechos para garantizar la idoneidad de los jurados de votación y lograr unas Elecciones Transparentes.??
+
+https://t.co/jWAc4byuUL"	positive	negative
+296	"???? Te presentamos las propuestas #TIC de los candidatos presidenciales en #Colombia ????
+https://t.co/C1jM1OxDRp"	positive	negative
+300	"Hoy amanece colombia secuestrada y sitiada por los amigos de un candidato que lleva las politicas de un expresidente durante los ultimos años y tiene a un pais en jaque!
+Tenemos la posibilidad de salvar a colombia en estas elecciones 2022.
+Tenemos el derecho al cambio y a la paz https://t.co/gf6MHsLrkc"	positive	negative
+301	Con esto del paro armado y el miedo generado a la población, solo llego a la conclusión de para qué elecciones si ya sabemos quien gobierna a Colombia.	neutral	negative
+306	“La Procuraduría General de Colombia descubrió que 2925 aspirantes a jurados de votación para las presidenciales del próximo 29 de mayo están inhabilitados para ejercer funciones públicas” https://t.co/2MCo0SBpog #Elecciones ???? por @gabrielamor	negative	neutral
+307	"NOTICIA COLOMBIA ??
+El Tribunal Administrativo de Cundinamarca niega la medida cautelar que pretendía suspender al registrador nacional Alexander Vega, previo a las elecciones presidenciales. Dice el Tribunal que esa decisión es competencia de la Procuraduría General de la Nación https://t.co/0b0KUTnirC"	positive	negative
+312	"Estos son los tarjetones con los que Colombia ha votado a la presidencia en 28 años:
+
+https://t.co/7jcyCwQuni"	positive	negative
+314	Episodio 8 - En este nuevo episodio Alicia Eugenia Silva nos plantea una reflexión,  en estas elecciones ¿el país sigue polarizado? o ¿nace un nuevo bipartidismo en Colombia? https://t.co/HYnK26DpNn via @YouTube	positive	negative
+315	"Me salió esto ??
+
+https://t.co/TJokUajStC"	positive	negative
+317	"???Apertura y estabilidad democrática en Colombia, ?? el análisis de Daniel Ricardo Amaya en revista #CienDías edición N. 104 ?? https://t.co/d2YUoyQ8k6
+
+?? @PactoHistorico https://t.co/c1UQd4KNDJ"	neutral	negative
+324	La izquierda se dedicó A proteger cuanto criminal aparezca. Sí la izquierda extrema como la de Petro Gana Las elecciones será la criminalidad la que gobierne A colombia desde ése momento.	neutral	negative
+326	En Colombia con las elecciones	neutral	negative
