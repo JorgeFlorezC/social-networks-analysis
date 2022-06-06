@@ -12,10 +12,11 @@ From the sentiment analysis tutorial on Twitter of the repository seen in class,
 ## Results
  - Evidence screenshot of results table.
  
- ![Captura-MongoDB](./imgs/Tabla_Resultados.PNG)
+ ![Captura-Tabla_Resultados](./imgs/Tabla_Resultados.PNG)
  
- - Evidence screenshot of results table.
- - Evidence screenshot of results table.
+ - I believe that the main strategy is to have a large training dataset labeled with as much detail as possible.
+ - The detailed knowledge of the operation of the algorithms, as well as the nature and context of the data, allow greater precision of which of the existing classifying algorithms is viable for the analysis of the information.
+ - The main difficulty in this workshop was to increase the prediction in the 'positive' and 'neutral' classes due to the small amount of data of this type that the dataset had.
 
 
 ## Usage
